@@ -1,3 +1,2 @@
 # Test
-Test for a new repo
-Master repo
+Test for a new branch in the current repo
